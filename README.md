@@ -6,6 +6,8 @@
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](./SKILL.md)
 [![GitHub stars](https://img.shields.io/github/stars/wangxi83/step-processing)](https://github.com/wangxi83/step-processing/stargazers)
 
+🌐 **[中文](./README.md) | [English](./README.en.md)**
+
 ---
 
 ## 它能干啥？
