@@ -1,0 +1,44 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Local environment / secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Node / Python build artifacts
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage / test output
+coverage/
+htmlcov/
+.coverage
+.tox/
+
+# Temporary session scratch (do not commit local planning scratchpads)
+# Uncomment the line below to keep example plans out of history.
+# examples/**/scratch/
